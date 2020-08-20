@@ -25,7 +25,7 @@ This sample illustrates how to use two-legged authentication.
     - HTML and CSS
     - JavaScript ES6
     - Command-line programs
-      - Node.js Command Line (for Windows users) - it seems deprecated
+      - Node.js Command Line (for Windows users)
       - Terminal (for Mac/Linux/Unix users)
 
 ## Running locally
